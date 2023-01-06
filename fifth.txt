@@ -1,0 +1,39 @@
+Q1. What is mobile Ad-hoc Network? What are the advantages of mobile ad-hoc network?
+
+Ye dekh lo peel
+
+https://www.youtube.com/watch?v=acdn4Q6YCY4
+
+MANET stands for Mobile Adhoc Network also called a wireless Adhoc network or Adhoc wireless network that usually has a routable networking environment on top of a Link Layer ad hoc network.. They consist of a set of mobile nodes connected wirelessly in a self-configured, self-healing network without having a fixed infrastructure. MANET nodes are free to move randomly as the network topology changes frequently. Each node behaves as a router as they forward traffic to other specified nodes in the network. 
+
+Characteristics of MANET – 
+
+
+Dynamic Topologies: 
+Network topology which is typically multihop may change randomly and rapidly with time, it can form unidirectional or bi-directional links. 
+Bandwidth constrained, variable capacity links: 
+Wireless links usually have lower reliability, efficiency, stability, and capacity as compared to a wired network
+Autonomous Behavior: 
+Each node can act as a host and router, which shows its autonomous behavior. 
+Energy Constrained Operation: 
+As some or all the nodes rely on batteries or other exhaustible means for their energy. Mobile nodes are characterized by less memory, power, and lightweight features. 
+Limited Security: 
+Wireless networks are more prone to security threats. A centralized firewall is absent due to the distributed nature of the operation for security, routing, and host configuration. 
+Less Human Intervention: 
+They require minimum human intervention to configure the network, therefore they are dynamically autonomous in nature. 
+Pros and Cons of MANET –
+
+Pros:
+
+Separation from central network administration.
+Each node can play both the roles ie. of router and host showing autonomous nature.
+Self-configuring and self-healing nodes do not require human intervention.
+Highly scalable and suits the expansion of more network hub.
+Cons:
+
+Resources are limited due to various constraints like noise, interference conditions, etc.
+Lack of authorization facilities.
+More prone to attacks due to limited physical security.
+High latency i.e. There is a huge delay in the transfer of data between two sleeping nodes.
+
+
